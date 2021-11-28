@@ -34,7 +34,7 @@ section{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
- .music-title{
+.music-title{
     font-family: 'Oswald', sans-serif;
     font-size: 30px;
     text-align: center;
@@ -87,8 +87,8 @@ section{
     font-size: 16px;
     padding: 5px
 }
- .procced-pay p:first-child{
-    background-color: rgb(60, 240, 24);
+.procced-pay p:first-child{
+    background-color: rgb(32, 228, 179);
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
@@ -98,15 +98,13 @@ section{
     width:60%;
     height: 50px;
     font-family: 'Libre Baskerville', serif;
-    color: #ffffff;
+    color: #000000;
 }
 .procced-pay p:first-child:hover{
     transition: all 0.3s ease 0s;
     background-color: rgba(27, 98, 253, 0.966);
 }
 .procced-pay p:nth-child(2){
-    background-color: rgb(253, 0, 0);
-    border-radius: 80pt;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -115,11 +113,11 @@ section{
     width: 40%;
     height: 40px;
     font-family: 'Libre Baskerville', serif;
-    color: #ffffff;
+    color: #000000;
 }
 .procced-pay p:nth-child(2):hover{
     transition: all 0.3s ease 0s;
-    background-color: rgba(20, 141, 125, 0.849);
+    color: rgb(255, 15, 15);
 }
 
 /* End content */
